@@ -14,4 +14,4 @@ Joyeux Noël !     __\*<]:{)__
 ![joli](./images/nowel.jpg)
 
 
-<img ALIGN="middle"><img src="./images/noel.png">
+<p ALIGN="center"><img src="./images/noel.png"></p>
