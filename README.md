@@ -2,5 +2,6 @@
 
 Par Aude, Erwan et Ludivine
 
-Mnistsgd : Premier modèle avec un classifier SGD
-Mnist_cnn : Modèle avec un réseau de neurones convolutif
+__mnist_sgd__ : Premier modèle avec un classifier SGD
+
+__mnist_cnn__ : Modèle avec un réseau de neurones convolutif
