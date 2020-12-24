@@ -10,7 +10,7 @@ Par Aude, Erwan et Ludivine
 Joyeux Noël !     __\*<]:{)__
 
 <p ALIGN="center"><img src="./images/noel.png"></p>
-<p ALIGN="center">![joli](./images/nowel.jpg)</p>
+<p ALIGN="center"><img src="./images/nowel.jpg"></p>
 
 
 
