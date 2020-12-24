@@ -2,6 +2,8 @@
 
 Par Aude, Erwan et Ludivine
 
+Classification des chiffres manuscrits
+
 ## Contenu
 
 * __mnist_sgd__ : Premier modèle avec un classifier SGD
